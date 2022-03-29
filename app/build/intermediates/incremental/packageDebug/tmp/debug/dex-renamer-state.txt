@@ -1,0 +1,4 @@
+#Tue Mar 29 13:34:11 EDT 2022
+base.0=/Users/consultant/Downloads/android-advanced-starter-apps-master/FragmentExample2/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
